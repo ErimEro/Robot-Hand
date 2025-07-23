@@ -1,2 +1,3 @@
 # Robot Hand
-A robot hand
+Remote Control Robot Hand
+
